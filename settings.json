@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EnderZ809-Up4R.aternos.me:57941",
+    "ip": "EnderZ809-Up4R.aternos.me",
     "port": 57941,
     "version": "1.21.11",
     "try-creative": false
